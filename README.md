@@ -1,4 +1,4 @@
-# Planejador Financeiro · InvestSmart
+# Planejador Financeiro · 
 
 Ferramenta de planejamento financeiro para assessores: cadastro do cliente, fluxo mensal, patrimônio, projetos (investir × consórcio × financiamento), independência financeira, proteção, sucessão e relatório em PDF com apresentação interativa.
 
